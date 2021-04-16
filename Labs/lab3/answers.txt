@@ -1,0 +1,17 @@
+sort1 uses: 
+Bubble Sort
+
+How do you know?:
+It took way faster when the array was sorted
+
+sort2 uses: 
+Merge Sort
+
+How do you know?: 
+It took way faster then the orther 2. Yet the same amount of time whether the array was sorted or not.
+
+sort3 uses: 
+Selection Sort
+
+How do you know?: 
+Took the same amount of time whether the array was sorted or not. Yet was solower. 
